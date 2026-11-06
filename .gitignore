@@ -1,2 +1,7 @@
 venv/
-MY_PROJECT_LEARNINGS.md
+.venv/
+.env
+__pycache__/
+*.pyc
+logs/ 
+.md
